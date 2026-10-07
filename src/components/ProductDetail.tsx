@@ -1,3 +1,4 @@
+import React from 'react';
 import { Product, ForecastPeriod } from '../types';
 import { formatPrice, formatNumber } from '../data';
 import { X, TrendingUp, TrendingDown, Minus, Target, Clock, BarChart3, ShoppingBag, Eye, Zap } from 'lucide-react';

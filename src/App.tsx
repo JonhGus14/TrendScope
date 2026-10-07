@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { Product, Category, PriceRange, ForecastPeriod, Marketplace } from './types';
 import { generateProducts, updateProductRealtime, priceRanges, marketplaces } from './data';
 import FilterPanel from './components/FilterPanel';

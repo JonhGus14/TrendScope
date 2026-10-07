@@ -1,3 +1,4 @@
+import React from 'react';
 import { Product, ForecastPeriod } from '../types';
 import { formatPrice, formatNumber } from '../data';
 import { TrendingUp, TrendingDown, Minus, Star, Shield, Rocket, Target, ChevronRight, Sparkles, Crown, Zap, ArrowUpRight, CheckCircle2 } from 'lucide-react';

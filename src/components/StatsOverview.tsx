@@ -1,3 +1,4 @@
+import React from 'react';
 import { Product } from '../types';
 import { TrendingUp, TrendingDown, Minus, ShoppingBag, Eye, Package, Activity } from 'lucide-react';
 

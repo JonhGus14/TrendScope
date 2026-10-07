@@ -1,3 +1,4 @@
+import React from 'react';
 import { Category, PriceRange, ForecastPeriod, Marketplace } from '../types';
 import { categories, priceRanges, marketplaces } from '../data';
 import { Filter, TrendingUp, Search, DollarSign, Calendar, Store } from 'lucide-react';

@@ -1,3 +1,4 @@
+import React from 'react';
 import { Product } from '../types';
 import { formatPrice, formatNumber } from '../data';
 import { TrendingUp, TrendingDown, Minus, ShoppingBag, Eye } from 'lucide-react';

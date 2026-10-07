@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 import { TrendingUp, Target, Zap, Shield, Users, Award, ArrowRight, CheckCircle2, Star, Flame, Rocket, Clock, BarChart3, Sparkles, ChevronRight, Play } from 'lucide-react';
 
 interface SalesPageProps {
